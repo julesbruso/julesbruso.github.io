@@ -1,0 +1,20 @@
+h1 {
+  font-size: 28px;
+  font-color: #28315C;
+  font-family: "kalnia", serif;
+  font-weight: 550;
+  text-align: 
+}
+h2 {
+  font-size: 22px;
+  font-color: #28315C;
+  font-family: "kalnia", serif;
+  font-weight: 500;
+  text-align: 
+}
+.dark-blue {
+  background-color: #28315C;
+  color: white;
+  padding: 20px;
+  margin: 10px;
+}
